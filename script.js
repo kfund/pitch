@@ -20,7 +20,7 @@ function modal (date) {
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
             <div class="modal-body">
-                <p>Результати будуть доступні: <h3>18.00 ${dateStamp}</h3></p>
+                <p>Результати будуть доступні: <h3>18:00 ${dateStamp}</h3></p>
             </div>
             <div class="modal-footer">
                 <button type="button" class="btn btn-close-bottom btn-secondary" data-bs-dismiss="modal">Close</button>
