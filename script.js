@@ -36,4 +36,7 @@ function modal (date) {
     document.querySelector('.btn-close-bottom').addEventListener('click', () => {
         modal.remove()
     })
+    document.querySelector('.btn-close').addEventListener('click', () => {
+        modal.remove()
+    })
 }
